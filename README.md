@@ -1,2 +1,2 @@
-# Aaron
-#Just an area to store some small code snippets from my son.
+# Python
+#Just an area to store some small code snippets.
